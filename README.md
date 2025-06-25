@@ -37,4 +37,4 @@ Despliegue: Render (alternativa: GitHub Pages).
 📌 Notas
 Si encuentras bugs o quieres contribuir, ¡abre un Issue o Pull Request!
 
-![Vista de tabla de Pokémon](./assets/screenshot1.png)
+![Vista de tabla de Pokémon](./assets/Screenshot_1.png)
