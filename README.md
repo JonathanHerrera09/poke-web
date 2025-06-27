@@ -1,6 +1,4 @@
 Poke Web
-https://i.imgur.com/placeholder.png (Reemplaza con una captura real de tu app)
-
 Poke Web es una aplicación interactiva que permite buscar y filtrar Pokémon por nombre, tipo, número y más. Desarrollada con fines practicos, muestra estadísticas detalladas de cada Pokémon en una interfaz amigable.
 
 🌟 Demo
